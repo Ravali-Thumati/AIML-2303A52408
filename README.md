@@ -4,3 +4,4 @@
 [lab-6]https://github.com/Ravali-Thumati/AIML-2303A52408/blob/main/AIML_LAB6.ipynb
 [lab-5]https://github.com/Ravali-Thumati/AIML-2303A52408/blob/main/aiml_lab_5.ipynb
 [lab-3]https://github.com/Ravali-Thumati/AIML-2303A52408/blob/main/week_lab3.ipynb
+[lab-4]https://github.com/Ravali-Thumati/AIML-2303A52408/blob/main/week_LAB_4_Linear_Regression.ipynb
